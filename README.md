@@ -2,7 +2,7 @@
 
 | Device       |              Download Link                      |  Download Statistics  |  Changelog  |
 |--------------|-------------------------------------------------|-----------------------|-------------|
-| Moto G60/G40 ( Latest build )| [**PixelExperience_hanoip-12.1-20220523-1203-UNOFFICIAL.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/PixelExperience/PixelExperience_hanoip-12.1-20220523-1203-UNOFFICIAL.zip/download)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/PixelExperience/PixelExperience_hanoip-12.1-20220523-1203-UNOFFICIAL.zip.svg)|[**Build 20220523**](https://github.com/RaghuVarma331/scripts/raw/master/Motorola-SM6150/PE-changelog.txt)|
+| Moto G60/G40 ( Latest build )| [**PixelExperience_hanoip-12.1-20220525-1448-UNOFFICIAL.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/PixelExperience/PixelExperience_hanoip-12.1-20220525-1448-UNOFFICIAL.zip/download)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/PixelExperience/PixelExperience_hanoip-12.1-20220525-1448-UNOFFICIAL.zip.svg)|[**Build 20220525**](https://github.com/RaghuVarma331/scripts/raw/master/Motorola-SM6150/PE-changelog.txt)|
 
 
 ### ArrowOS Android 11 for Motorola Phones ( With GApps )
