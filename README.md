@@ -21,7 +21,8 @@
 
 | Device       |              Download Link                      |  Download Statistics  |
 |--------------|-------------------------------------------------|-----------------------|
-| Moto G60/G40 ( Latest build )| [**twrp-3.6.2_11-0-hanoip-20220603.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.6.2_11-0-hanoip-20220603.img/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.6.2_11-0-hanoip-20220603.img.svg)|
+| Moto G60/G40 ( Latest build )| [**twrp-3.6.2_11-0-hanoip-20220610-0914.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.6.2_11-0-hanoip-20220610-0914.img/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.6.2_11-0-hanoip-20220610-0914.img.svg)|
+| Moto G60/G40 ( Latest build )| [**twrp-installer-3.6.2_11-0-hanoip-20220610-0914.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-installer-3.6.2_11-0-hanoip-20220610-0914.zip/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-installer-3.6.2_11-0-hanoip-20220610-0914.zip.svg)|
 
 ###### Do you like my work? Please Show your support by donating via PayPal or UPI ❤️
 ###### My Paypal email id - raghuvarma330@gmail.com
