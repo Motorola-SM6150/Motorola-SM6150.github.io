@@ -9,7 +9,7 @@
 
 | Device       |              Download Link                      |  Download Statistics  |  Changelog  |
 |--------------|-------------------------------------------------|-----------------------|-------------|
-| Moto G60/G40 ( Latest build )| [**lineage-19.1-20220622-UNOFFICIAL-hanoip.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/LineageOS/lineage-19.1-20220622-UNOFFICIAL-hanoip.zip/download)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/LineageOS/lineage-19.1-20220622-UNOFFICIAL-hanoip.zip.svg)|[**Build 20220622**](https://github.com/RaghuVarma331/scripts/raw/master/Motorola-SM6150/LOS-changelog.txt)|
+| Moto G60/G40 ( Latest build )| [**lineage-19.1-20220721-UNOFFICIAL-hanoip.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/LineageOS/lineage-19.1-20220721-UNOFFICIAL-hanoip.zip/download)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/LineageOS/lineage-19.1-20220721-UNOFFICIAL-hanoip.zip.svg)|[**Build 20220721**](https://github.com/RaghuVarma331/scripts/raw/master/Motorola-SM6150/LOS-changelog.txt)|
 
 ### Google Apps for custom roms
 
