@@ -19,15 +19,17 @@
 
 ### Android 12/12L TWRP For Motorola Phones ( UNOFFICIAL )
 
-| Device       |              Download Link                      |  Download Statistics  |
-|--------------|-------------------------------------------------|-----------------------|
-| Moto G60/G40 ( Latest build )| [**twrp-3.6.2_12.1-0-hanoip-20220730-1844.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.6.2_12.1-0-hanoip-20220730-1844.img/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.6.2_12.1-0-hanoip-20220730-1844.img.svg)|
+| Device       |  Format |            Download Link                      |  Download Statistics  |
+|--------------|---------|-------------------------------------------------|-----------------------|
+| Moto G60/G40 ( Latest build )| Temporary installation | [**twrp-3.6.2_12.1-0-hanoip-20220731-0806.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.6.2_12.1-0-hanoip-20220731-0806.img/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.6.2_12.1-0-hanoip-20220731-0806.img.svg)|
+| Moto G60/G40 ( Latest build )| Permanent installation | [**twrp-installer-3.6.2_12.1-0-hanoip-20220731-0806.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-installer-3.6.2_12.1-0-hanoip-20220731-0806.zip/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-installer-3.6.2_12.1-0-hanoip-20220731-0806.zip.svg)|
 
 ### Android 11 TWRP For Motorola Phones ( UNOFFICIAL )
 
-| Device       |              Download Link                      |  Download Statistics  |
-|--------------|-------------------------------------------------|-----------------------|
-| Moto G60/G40 ( Latest build )| [**twrp-3.6.2_11-0-hanoip-20220729-1909.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.6.2_11-0-hanoip-20220729-1909.img/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.6.2_11-0-hanoip-20220729-1909.img.svg)|
+| Device       |  Format |            Download Link                      |  Download Statistics  |
+|--------------|---------|-------------------------------------------------|-----------------------|
+| Moto G60/G40 ( Latest build )| Temporary installation | [**twrp-3.6.2_11-0-hanoip-20220729-1909.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.6.2_11-0-hanoip-20220729-1909.img/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.6.2_11-0-hanoip-20220729-1909.img.svg)|
+| Moto G60/G40 ( Latest build )| Permanent installation | [**twrp-installer-3.6.2_11-0-hanoip-20220729-1909.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-installer-3.6.2_11-0-hanoip-20220729-1909.zip/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-installer-3.6.2_11-0-hanoip-20220729-1909.zip.svg)|
 
 ###### Do you like my work? Please Show your support by donating via PayPal or UPI ❤️
 ###### My Paypal email id - raghuvarma330@gmail.com
