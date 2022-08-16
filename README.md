@@ -1,3 +1,11 @@
+### AOSP Android 13 for Motorola Phones ( With GApps )
+
+| Device       |              Download Link                      |  Download Statistics  |  
+|--------------|-------------------------------------------------|-----------------------|
+| Moto G60/G40 ( Latest build )| [**hanoip-ota-tp1a.220624.021-12.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/AOSP/hanoip-ota-tp1a.220624.021-12.zip/download)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/AOSP/hanoip-ota-tp1a.220624.021-12.zip.svg)|
+
+
+
 ### Pixel Experience Android 12L for Motorola Phones ( With GApps )
 
 | Device       |              Download Link                      |  Download Statistics  |  Changelog  |
