@@ -1,35 +1,15 @@
-### AOSP Android 13 for Motorola Phones ( With GApps )
+### LineageOS for Motorola G60/G40F ( Without GApps )
 
-| Device       |              Download Link                      |  Download Statistics  |  
-|--------------|-------------------------------------------------|-----------------------|
-| Moto G60/G40 ( Latest build )| [**hanoip-ota-tp1a.220624.021-12.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/AOSP/hanoip-ota-tp1a.220624.021-12.zip/download)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/AOSP/hanoip-ota-tp1a.220624.021-12.zip.svg)|
-
-
-
-### Pixel Experience Android 12L for Motorola Phones ( With GApps )
-
-| Device       |              Download Link                      |  Download Statistics  |  Changelog  |
-|--------------|-------------------------------------------------|-----------------------|-------------|
-| Moto G60/G40 ( Latest build )| [**PixelExperience_hanoip-12.1-20220721-1505-UNOFFICIAL.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/PixelExperience/PixelExperience_hanoip-12.1-20220721-1505-UNOFFICIAL.zip/download)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/PixelExperience/PixelExperience_hanoip-12.1-20220721-1505-UNOFFICIAL.zip.svg)|[**Build 20220721**](https://github.com/RaghuVarma331/scripts/raw/master/Motorola-SM6150/PE-changelog.txt)|
-
-
-### LineageOS 19.1 Android 12L for Motorola Phones ( Without GApps )
-
-| Device       |              Download Link                      |  Download Statistics  |  Changelog  |
-|--------------|-------------------------------------------------|-----------------------|-------------|
-| Moto G60/G40 ( Latest build )| [**lineage-19.1-20220721-UNOFFICIAL-hanoip.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/LineageOS/lineage-19.1-20220721-UNOFFICIAL-hanoip.zip/download)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/LineageOS/lineage-19.1-20220721-UNOFFICIAL-hanoip.zip.svg)|[**Build 20220721**](https://github.com/RaghuVarma331/scripts/raw/master/Motorola-SM6150/LOS-changelog.txt)|
-
-### Governor OS Android 13.0 for Motorola Phones ( With GApps )
-
-| Device       |              Download Link                      |  Place your request   |
-|--------------|-------------------------------------------------|-----------------------|
-| Moto G60/G40 ( Latest build )| [**HMD-AOSP_hanoip-13.0-20220827-0841.zip**](https://gitlab.com/RaghuVarma331/governoros-a13-hanoip/-/raw/master/HMD-AOSP_hanoip-13.0-20220827-0841.zip) | [**Request access**](https://t.me/RaghuVarma) |
+| Android version |              Download Link                      |  Download Statistics  |  
+|-----------------|-------------------------------------------------|-----------------------|
+| 11.0 | [**lineage-18.1-20220923-UNOFFICIAL-hanoip.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/LineageOS/lineage-18.1-20220923-UNOFFICIAL-hanoip.zip)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/LineageOS/lineage-18.1-20220923-UNOFFICIAL-hanoip.zip.svg)|
 
 ### Google Apps for custom roms
 
 | Owner       |              Download link                      |  Android version  |
 |--------------|-------------------------------------------------|-----------------------|
-| MindTheGApps | [**MindTheGapps-12.1.0-arm64-20220605_112439.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-12.1.0-arm64-20220605_112439.zip/download) | 12L |
+| MindTheGApps | [**MindTheGapps-11.0.0-arm64-20220217_100228.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-11.0.0-arm64-20220217_100228.zip) | 11 |
+| MindTheGApps | [**MindTheGapps-12.1.0-arm64-20220605_112439.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-12.1.0-arm64-20220605_112439.zip) | 12L |
 
 ### Android 12/12L TWRP For Motorola Phones ( UNOFFICIAL )
 
