@@ -10,10 +10,11 @@
 
 | Owner       |              Download link                      |  Android version  |
 |--------------|-------------------------------------------------|-----------------------|
-| MindTheGApps | [**MindTheGapps-11.0.0-arm64-20220217_100228.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-11.0.0-arm64-20220217_100228.zip) | 11 |
-| MindTheGApps | [**MindTheGapps-12.1.0-arm64-20220605_112439.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-12.1.0-arm64-20220605_112439.zip) | 12L |
+| MindTheGApps | [**MindTheGapps-11.0.0-arm64-20220217_100228.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-11.0.0-arm64-20220217_100228.zip) | 11.0 |
+| MindTheGApps | [**MindTheGapps-12.1.0-arm64-20220605_112439.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-12.1.0-arm64-20220605_112439.zip) | 12 L |
+| NikGapps | [**NikGapps-arm64-13.0-20220905.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/NikGApps/NikGapps-arm64-13.0-20220905.zip) | 13.0 |
 
-### Android 12/12L TWRP For Motorola Phones ( UNOFFICIAL )
+### Android 12/12L/13 TWRP For Motorola Phones ( UNOFFICIAL )
 
 | Device       |  Format |            Download Link                      |  Download Statistics  |
 |--------------|---------|-------------------------------------------------|-----------------------|
