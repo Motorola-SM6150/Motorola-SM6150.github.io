@@ -16,23 +16,17 @@
 
 | Owner       |              Download link                      |  Android version  |
 |--------------|-------------------------------------------------|-----------------------|
-| MindTheGApps | [**MindTheGapps-11.0.0-arm64-20220217_100228.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-11.0.0-arm64-20220217_100228.zip) | 11.0 |
-| MindTheGApps | [**MindTheGapps-12.1.0-arm64-20220605_112439.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-12.1.0-arm64-20220605_112439.zip) | 12 L |
-| NikGapps | [**NikGapps-arm64-13.0-20220905.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/NikGApps/NikGapps-arm64-13.0-20220905.zip) | 13.0 |
+| MindTheGApps | [**gapps-arm64-11.0.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-11.0.0-arm64-20220217_100228.zip) | 11.0 |
+| MindTheGApps | [**gapps-arm64-12L.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-12.1.0-arm64-20220605_112439.zip) | 12 L |
+| NikGapps | [**gapps-arm64-13.0.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/NikGApps/NikGapps-arm64-13.0-20220905.zip) | 13.0 |
 
-### Android 12/12L/13 TWRP For Motorola Phones ( UNOFFICIAL )
+### TWRP For Motorola Phones ( UNOFFICIAL )
 
-| Device       |  Format |            Download Link                      |  Download Statistics  |
-|--------------|---------|-------------------------------------------------|-----------------------|
-| Moto G60/G40 ( Latest build )| Temporary installation | [**twrp-3.6.2_12.1-0-hanoip-20220808-0701.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.6.2_12.1-0-hanoip-20220808-0701.img/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.6.2_12.1-0-hanoip-20220808-0701.img.svg)|
-| Moto G60/G40 ( Latest build )| Permanent installation | [**twrp-installer-3.6.2_12.1-0-hanoip-20220808-0701.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-installer-3.6.2_12.1-0-hanoip-20220808-0701.zip/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-installer-3.6.2_12.1-0-hanoip-20220808-0701.zip.svg)|
+| Android version |              Download Link                      |  Download Statistics  |  
+|-----------------|-------------------------------------------------|-----------------------|
+| 11.0 | [**twrp-3.6.2_11-1-hanoip-20220808-0633.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.6.2_11-1-hanoip-20220808-0633.img)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.6.2_11-1-hanoip-20220808-0633.img.svg)|
+| 12/12L/13 | [**twrp-3.6.2_12.1-0-hanoip-20220808-0701.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.6.2_12.1-0-hanoip-20220808-0701.img)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.6.2_12.1-0-hanoip-20220808-0701.img.svg)|
 
-### Android 11 TWRP For Motorola Phones ( UNOFFICIAL )
-
-| Device       |  Format |            Download Link                      |  Download Statistics  |
-|--------------|---------|-------------------------------------------------|-----------------------|
-| Moto G60/G40 ( Latest build )| Temporary installation | [**twrp-3.6.2_11-1-hanoip-20220808-0633.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.6.2_11-1-hanoip-20220808-0633.img/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.6.2_11-1-hanoip-20220808-0633.img.svg)|
-| Moto G60/G40 ( Latest build )| Permanent installation | [**twrp-installer-3.6.2_11-1-hanoip-20220808-0633.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-installer-3.6.2_11-1-hanoip-20220808-0633.zip/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-installer-3.6.2_11-1-hanoip-20220808-0633.zip.svg)|
 
 ###### Few words from myside -
 
