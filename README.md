@@ -6,14 +6,6 @@
 | 12 L | [**lineage-19.1-20220927-UNOFFICIAL-hanoip.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/LineageOS/lineage-19.1-20220927-UNOFFICIAL-hanoip.zip)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/LineageOS/lineage-19.1-20220927-UNOFFICIAL-hanoip.zip.svg)|
 | 13.0 | [**lineage-20.0-20220929-UNOFFICIAL-hanoip.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/LineageOS/lineage-20.0-20220929-UNOFFICIAL-hanoip.zip)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/LineageOS/lineage-20.0-20220929-UNOFFICIAL-hanoip.zip.svg)|
 
-
-### PixelExperience for Motorola G60/G40F ( With GApps )
-
-| Android version |              Download Link                      |  Download Statistics  |  
-|-----------------|-------------------------------------------------|-----------------------|
-| 13.0 | [**PixelExperience_hanoip-13.0-BETA-20220929-2028-UNOFFICIAL.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/PixelExperience/PixelExperience_hanoip-13.0-BETA-20220929-2028-UNOFFICIAL.zip)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/PixelExperience/PixelExperience_hanoip-13.0-BETA-20220929-2028-UNOFFICIAL.zip.svg)|
-
-
 ### Google Apps for custom roms
 
 | Owner       |              Download link                      |  Android version  |
