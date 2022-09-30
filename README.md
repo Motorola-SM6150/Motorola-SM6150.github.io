@@ -6,6 +6,12 @@
 | 12 L | [**lineage-19.1-20220927-UNOFFICIAL-hanoip.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/LineageOS/lineage-19.1-20220927-UNOFFICIAL-hanoip.zip)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/LineageOS/lineage-19.1-20220927-UNOFFICIAL-hanoip.zip.svg)|
 | 13.0 | [**lineage-20.0-20220929-UNOFFICIAL-hanoip.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/LineageOS/lineage-20.0-20220929-UNOFFICIAL-hanoip.zip)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/LineageOS/lineage-20.0-20220929-UNOFFICIAL-hanoip.zip.svg)|
 
+### PixelExperience for Motorola G60/G40F ( With GApps )
+
+| Android version |              Download Link                      |  Download Statistics  |  
+|-----------------|-------------------------------------------------|-----------------------|
+| 13.0 | [**PixelExperience_hanoip-13.0-BETA-20220930-1231-UNOFFICIAL.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/PixelExperience/PixelExperience_hanoip-13.0-BETA-20220930-1231-UNOFFICIAL.zip)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/PixelExperience/PixelExperience_hanoip-13.0-BETA-20220930-1231-UNOFFICIAL.zip.svg)|
+
 ### Google Apps for custom roms
 
 | Owner       |              Download link                      |  Android version  |
@@ -28,9 +34,14 @@
 | Moto G60/G40 ( Latest build )| Temporary installation | [**twrp-3.6.2_11-1-hanoip-20220808-0633.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.6.2_11-1-hanoip-20220808-0633.img/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.6.2_11-1-hanoip-20220808-0633.img.svg)|
 | Moto G60/G40 ( Latest build )| Permanent installation | [**twrp-installer-3.6.2_11-1-hanoip-20220808-0633.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-installer-3.6.2_11-1-hanoip-20220808-0633.zip/download) |![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-installer-3.6.2_11-1-hanoip-20220808-0633.zip.svg)|
 
-###### Do you like my work? Please Show your support by donating via PayPal or UPI ❤️
+###### Few words from myside -
+
+###### The works which i maintain in this webpage maintained in my free time. So i kindly request everyone to please forgive me for any bug reports or any further questions or if i don't respond on time. development is just for fun so please don't believe my works are equal to stock or better then stock. It's all up on your mindset and your interest !
+
+###### Do you like my work? Please Show your support by donating via PayPal or UPI
 ###### My Paypal email id - raghuvarma330@gmail.com
 ###### My UPI id - raghuvarma1998@sbi
+###### My Telegram username - https://t.me/RaghuVarma
 ###### Thank you 🙂
 
 
