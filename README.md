@@ -18,7 +18,7 @@
 |--------------|-------------------------------------------------|-----------------------|
 | MindTheGApps | [**gapps-arm64-11.0.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-11.0.0-arm64-20220217_100228.zip) | 11.0 |
 | MindTheGApps | [**gapps-arm64-12L.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-12.1.0-arm64-20220605_112439.zip) | 12 L |
-| NikGapps | [**gapps-arm64-13.0.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/NikGApps/NikGapps-arm64-13.0-20220905.zip) | 13.0 |
+| MindTheGApps | [**gapps-arm64-13.0.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/MindTheGApps/MindTheGapps-13.0.0-arm64-20221025_100653.zip) | 13.0 |
 
 ### TWRP For Motorola Phones ( UNOFFICIAL )
 
