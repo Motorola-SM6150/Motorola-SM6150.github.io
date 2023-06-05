@@ -10,7 +10,7 @@
 
 | Android version |              Download Link                      |  Download Statistics  |  
 |-----------------|-------------------------------------------------|-----------------------|
-| 13.0 | [**PixelExperience_Plus_hanoip-13.0-20230412-0657-UNOFFICIAL.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/PixelExperience/PixelExperience_Plus_hanoip-13.0-20230412-0657-UNOFFICIAL.zip)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/PixelExperience/PixelExperience_Plus_hanoip-13.0-20230412-0657-UNOFFICIAL.zip.svg)|
+| 13.0 | [**PixelExperience_Plus_hanoip-13.0-20230604-1532-UNOFFICIAL.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/PixelExperience/PixelExperience_Plus_hanoip-13.0-20230604-1532-UNOFFICIAL.zip)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/PixelExperience/PixelExperience_Plus_hanoip-13.0-20230604-1532-UNOFFICIAL.zip.svg)|
 
 ### Google Apps for custom roms
 
