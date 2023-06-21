@@ -4,7 +4,7 @@
 |-----------------|-------------------------------------------------|-----------------------|
 | 11.0 | [**lineage-18.1-20230104-UNOFFICIAL-hanoip.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/LineageOS/lineage-18.1-20230104-UNOFFICIAL-hanoip.zip)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/LineageOS/lineage-18.1-20230104-UNOFFICIAL-hanoip.zip.svg)|
 | 12 L | [**lineage-19.1-20230106-UNOFFICIAL-hanoip.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/LineageOS/lineage-19.1-20230106-UNOFFICIAL-hanoip.zip)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/LineageOS/lineage-19.1-20230106-UNOFFICIAL-hanoip.zip.svg)|
-| 13.0 | [**lineage-20.0-20230107-UNOFFICIAL-hanoip.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/LineageOS/lineage-20.0-20230107-UNOFFICIAL-hanoip.zip)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/LineageOS/lineage-20.0-20230107-UNOFFICIAL-hanoip.zip.svg)|
+| 13.0 | [**lineage-20.0-20230619-UNOFFICIAL-hanoip.zip**](https://sourceforge.net/projects/motorola-sm6150/files/G60/LineageOS/lineage-20.0-20230619-UNOFFICIAL-hanoip.zip)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/LineageOS/lineage-20.0-20230619-UNOFFICIAL-hanoip.zip.svg)|
 
 ### PixelExperience_Plus for Motorola G60/G40F ( With GApps )
 
