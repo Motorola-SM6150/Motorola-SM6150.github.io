@@ -26,6 +26,7 @@
 |-----------------|-------------------------------------------------|-----------------------|
 | 11.0 | [**twrp-3.6.2_11-1-hanoip-20220808-0633.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.6.2_11-1-hanoip-20220808-0633.img)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.6.2_11-1-hanoip-20220808-0633.img.svg)|
 | 12/12L/13 | [**twrp-3.7.0_12-0-hanoip-20230122-1823.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.7.0_12-0-hanoip-20230122-1823.img)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.7.0_12-0-hanoip-20230122-1823.img.svg)|
+| 12/12L/13/14 | [**twrp-3.7.0_12-0-hanoip-20231016-1650.img**](https://sourceforge.net/projects/motorola-sm6150/files/G60/TWRP/twrp-3.7.0_12-0-hanoip-20231016-1650.img)|![data](https://img.shields.io/sourceforge/dt/motorola-sm6150/G60/TWRP/twrp-3.7.0_12-0-hanoip-20231016-1650.img.svg)|
 
 
 ###### Few words from myside -
